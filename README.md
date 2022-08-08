@@ -29,3 +29,6 @@ Added an id to make menu link work correctly
 ## Deplyed Page
 
 https://legacymetrofight.github.io/-Develop/
+
+##SCREENSHOT
+![Code-refactor](https://user-images.githubusercontent.com/105182152/183325108-be546bd0-ccb9-40db-b079-847c9140547a.png)
